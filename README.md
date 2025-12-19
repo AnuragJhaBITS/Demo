@@ -1,4 +1,4 @@
 # Demo
 First GIT repo
 <br>
-Author - Anurag Jha
+Author - Anurag Jha (BITS)
